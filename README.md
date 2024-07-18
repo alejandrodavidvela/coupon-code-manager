@@ -72,3 +72,5 @@ To get the app running locally, follow these instructions:
 
 
 [![Deploy](https://store-lorovork97.mybigcommerce.com/content/Vercel%20Deploy.svg)](https://vercel.com/new/clone?repository-url=https://github.com/VitaliJud/coupon-code-manager) 
+
+updated
